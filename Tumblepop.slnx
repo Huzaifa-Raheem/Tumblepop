@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tumblepop.vcxproj" Id="69ebd76a-b60d-409b-a2af-c3a19bb8b2dc" />
+</Solution>
